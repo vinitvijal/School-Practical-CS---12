@@ -1,3 +1,6 @@
+# WAP to search any word in given string/sentence.
+# Created By Vinit
+
 def fun(string, word):
     s = string.split(" ")
     for i in s:

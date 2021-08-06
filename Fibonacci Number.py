@@ -1,3 +1,7 @@
+# WAP to find nth term of Fibonacci series.
+# Created By Vinit
+
+
 
 def fib(n):
     a = 0
