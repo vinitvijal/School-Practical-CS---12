@@ -1,6 +1,7 @@
 # WAP to input any number from user and calculate factorial of a number.
 # Created By Vinit
 
+
 def fact(n):
     fac = 1
     for i in range(1,n+1):
