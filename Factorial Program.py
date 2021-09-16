@@ -8,7 +8,7 @@ def fact(n):
     return fac
 
 x = int(input("Enter Your Number : "))
-if x >= 1:
+if x >= 0:
     result = fact(x)
     print(result)
 else:
