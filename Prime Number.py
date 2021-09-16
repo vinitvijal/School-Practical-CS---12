@@ -1,6 +1,8 @@
 # WAP to input any number from user and check whether it is prime or not.
 # Created By Vinit
 
+
+
 num = int(input("Enter Your Number : "))
 
 if num > 1:
